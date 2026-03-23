@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>站务 on </title>
+    <link>/categories/%E7%AB%99%E5%8A%A1/</link>
+    <description>Recent content from </description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    
+    <managingEditor>xxx@example.com (Lindx)</managingEditor>
+    <webMaster>xxx@example.com (Lindx)</webMaster>
+    
+    <copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright>
+    
+    <lastBuildDate>Mon, 23 Mar 2026 13:25:28 +0800</lastBuildDate>
+    
+    
+    <atom:link href="/categories/%E7%AB%99%E5%8A%A1/index.xml" rel="self" type="application/rss&#43;xml" />
+    
+
+    
+    
+
+    <item>
+      <title>你好，这是我的第一篇博客</title>
+      <link>/post/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Mon, 23 Mar 2026 13:25:28 &#43;0800</pubDate>
+      <author>xxx@example.com (Lindx)</author>
+      <guid>/post/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
+      <description>
+        <![CDATA[<h1>你好，这是我的第一篇博客</h1><p>作者：Lindx（xxx@example.com）</p>
+        
+          <p>欢迎来到 <strong>Lindx</strong> 的博客。这是用 <a href="https://gohugo.io/">雨果（Hugo）</a> 和 <a href="https://github.com/D-Sketon/hugo-theme-reimu">灵梦主题</a> 搭起来的静态站点，这篇文章用来占个坑，顺便熟悉一下写作流程。</p>
+        
+        <hr><p>本文2026-03-23首发于<a href='/'></a>，最后修改于2026-03-23</p>]]>
+      </description>
+      
+        <category>站务</category>
+      
+    </item>
+    
+  </channel>
+</rss>

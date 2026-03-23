@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>备忘清单 on </title>
+    <link>/tags/%E5%A4%87%E5%BF%98%E6%B8%85%E5%8D%95/</link>
+    <description>Recent content from </description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    
+    <managingEditor>xxx@example.com (Lindx)</managingEditor>
+    <webMaster>xxx@example.com (Lindx)</webMaster>
+    
+    <copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright>
+    
+    <lastBuildDate>Wed, 18 Mar 2026 10:00:00 +0800</lastBuildDate>
+    
+    
+    <atom:link href="/tags/%E5%A4%87%E5%BF%98%E6%B8%85%E5%8D%95/index.xml" rel="self" type="application/rss&#43;xml" />
+    
+
+    
+    
+
+    <item>
+      <title>日常用的 Git 命令小抄（够用版）</title>
+      <link>/post/git%E6%97%A5%E5%B8%B8%E5%91%BD%E4%BB%A4%E5%B0%8F%E6%8A%84/</link>
+      <pubDate>Wed, 18 Mar 2026 10:00:00 &#43;0800</pubDate>
+      <author>xxx@example.com (Lindx)</author>
+      <guid>/post/git%E6%97%A5%E5%B8%B8%E5%91%BD%E4%BB%A4%E5%B0%8F%E6%8A%84/</guid>
+      <description>
+        <![CDATA[<h1>日常用的 Git 命令小抄（够用版）</h1><p>作者：Lindx（xxx@example.com）</p>
+        
+          <p>我记性一般，子命令又多，所以把<strong>最常用</strong>的几条记下来，需要时直接搜这篇。假设你已经配置好用户名与邮箱（<code>user.name</code> / <code>user.email</code>），远程仓库名叫 <code>origin</code>。</p>
+        
+        <hr><p>本文2026-03-18首发于<a href='/'></a>，最后修改于2026-03-18</p>]]>
+      </description>
+      
+        <category>技术</category>
+      
+    </item>
+    
+  </channel>
+</rss>

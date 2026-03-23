@@ -1,0 +1,13 @@
+theme = "reimu"
+
+# 中文界面（单语言站点：勿加 [languages.xx]，否则根目录 about/friend 等单页可能不生成）
+languageCode = "zh-CN"
+defaultContentLanguage = "zh-cn"
+hasCJKLanguage = true
+
+# 侧边栏头像：把图片放到 static/avatar/ 下，文件名与 params.avatar 一致
+[params]
+author = "Lindx" # 侧栏昵称与图片 alt，请改成你的名字
+avatar = "avatar.png"
+description = "博客正在建设中..."
+subtitle = "博客正在建设中..."

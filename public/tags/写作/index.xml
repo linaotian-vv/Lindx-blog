@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>写作 on </title>
+    <link>//localhost:1313/tags/%E5%86%99%E4%BD%9C/</link>
+    <description>Recent content from </description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    
+    <managingEditor>xxx@example.com (Lindx)</managingEditor>
+    <webMaster>xxx@example.com (Lindx)</webMaster>
+    
+    <copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright>
+    
+    <lastBuildDate>Tue, 10 Mar 2026 09:00:00 +0800</lastBuildDate>
+    
+    
+    <atom:link href="//localhost:1313/tags/%E5%86%99%E4%BD%9C/index.xml" rel="self" type="application/rss&#43;xml" />
+    
+
+    
+    
+
+    <item>
+      <title>为什么我还在写「给自己看」的笔记</title>
+      <link>//localhost:1313/post/%E5%85%B3%E4%BA%8E%E5%86%99%E7%AC%94%E8%AE%B0%E7%9A%84%E6%80%9D%E8%80%83/</link>
+      <pubDate>Tue, 10 Mar 2026 09:00:00 &#43;0800</pubDate>
+      <author>xxx@example.com (Lindx)</author>
+      <guid>//localhost:1313/post/%E5%85%B3%E4%BA%8E%E5%86%99%E7%AC%94%E8%AE%B0%E7%9A%84%E6%80%9D%E8%80%83/</guid>
+      <description>
+        <![CDATA[<h1>为什么我还在写「给自己看」的笔记</h1><p>作者：Lindx（xxx@example.com）</p>
+        
+          <p>互联网上有一种声音：笔记软件换了一个又一个，收藏夹堆成山，真正内化的没几条。我挺认同的，所以一直在想：<strong>哪种记录方式对我最划算</strong>。</p>
+        
+        <hr><p>本文2026-03-10首发于<a href='//localhost:1313/'></a>，最后修改于2026-03-10</p>]]>
+      </description>
+      
+        <category>随笔</category>
+      
+    </item>
+    
+  </channel>
+</rss>

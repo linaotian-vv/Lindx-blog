@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>静态博客 on </title>
+    <link>/tags/%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2/</link>
+    <description>Recent content from </description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    
+    <managingEditor>xxx@example.com (Lindx)</managingEditor>
+    <webMaster>xxx@example.com (Lindx)</webMaster>
+    
+    <copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright>
+    
+    <lastBuildDate>Mon, 23 Mar 2026 13:25:28 +0800</lastBuildDate>
+    
+    
+    <atom:link href="/tags/%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss&#43;xml" />
+    
+
+    
+    
+
+    <item>
+      <title>你好，这是我的第一篇博客</title>
+      <link>/post/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Mon, 23 Mar 2026 13:25:28 &#43;0800</pubDate>
+      <author>xxx@example.com (Lindx)</author>
+      <guid>/post/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
+      <description>
+        <![CDATA[<h1>你好，这是我的第一篇博客</h1><p>作者：Lindx（xxx@example.com）</p>
+        
+          <p>欢迎来到 <strong>Lindx</strong> 的博客。这是用 <a href="https://gohugo.io/">雨果（Hugo）</a> 和 <a href="https://github.com/D-Sketon/hugo-theme-reimu">灵梦主题</a> 搭起来的静态站点，这篇文章用来占个坑，顺便熟悉一下写作流程。</p>
+        
+        <hr><p>本文2026-03-23首发于<a href='/'></a>，最后修改于2026-03-23</p>]]>
+      </description>
+      
+        <category>站务</category>
+      
+    </item>
+    
+    
+
+    <item>
+      <title>雨果静态站点发到哪里：几种常见做法</title>
+      <link>/post/hugo%E9%9D%99%E6%80%81%E7%AB%99%E7%82%B9%E9%83%A8%E7%BD%B2%E6%96%B9%E5%BC%8F/</link>
+      <pubDate>Thu, 05 Mar 2026 16:00:00 &#43;0800</pubDate>
+      <author>xxx@example.com (Lindx)</author>
+      <guid>/post/hugo%E9%9D%99%E6%80%81%E7%AB%99%E7%82%B9%E9%83%A8%E7%BD%B2%E6%96%B9%E5%BC%8F/</guid>
+      <description>
+        <![CDATA[<h1>雨果静态站点发到哪里：几种常见做法</h1><p>作者：Lindx（xxx@example.com）</p>
+        
+          <p>用雨果（Hugo）写好站点后，本地会看到 <strong><code>public/</code></strong> 目录——<strong>那就是整站静态文件</strong>。接下来只差把它放到一台能对外提供网页访问（超文本传输协议）的服务上。下面按「省心程度」大致排个序，方便你对号入座。</p>
+        
+        <hr><p>本文2026-03-05首发于<a href='/'></a>，最后修改于2026-03-05</p>]]>
+      </description>
+      
+        <category>技术</category>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,12 @@
+# 友链数据：每项需包含 name / url / desc / image（与主题 friendsLink 短代码一致）
+# 可替换、增删；清空列表则下方仅有说明、无友链卡片
+
+- name: Reimu 主题作者
+  url: https://d-sketon.github.io/
+  desc: Hugo / Hexo / Astro 等 Reimu 系列主题与示例
+  image: https://d-sketon.github.io/avatar/avatar.webp
+
+- name: Reimu（Astro 版演示）
+  url: https://d-sketon.github.io/astro-theme-reimu/
+  desc: 同一视觉风格的 Astro 主题演示站
+  image: https://d-sketon.github.io/avatar/avatar.webp
