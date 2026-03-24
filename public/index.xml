@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>//localhost:1313/</link>
+    <link>//localhost:49656/</link>
     <description>Recent content from </description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
@@ -15,7 +15,7 @@
     <lastBuildDate>Mon, 23 Mar 2026 13:25:28 +0800</lastBuildDate>
     
     
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss&#43;xml" />
+    <atom:link href="//localhost:49656/index.xml" rel="self" type="application/rss&#43;xml" />
     
 
     
@@ -23,16 +23,16 @@
 
     <item>
       <title>你好，这是我的第一篇博客</title>
-      <link>//localhost:1313/post/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
+      <link>//localhost:49656/post/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
       <pubDate>Mon, 23 Mar 2026 13:25:28 &#43;0800</pubDate>
       <author>xxx@example.com (Lindx)</author>
-      <guid>//localhost:1313/post/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
+      <guid>//localhost:49656/post/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
       <description>
         <![CDATA[<h1>你好，这是我的第一篇博客</h1><p>作者：Lindx（xxx@example.com）</p>
         
           <p>欢迎来到 <strong>Lindx</strong> 的博客。这是用 <a href="https://gohugo.io/">雨果（Hugo）</a> 和 <a href="https://github.com/D-Sketon/hugo-theme-reimu">灵梦主题</a> 搭起来的静态站点，这篇文章用来占个坑，顺便熟悉一下写作流程。</p>
         
-        <hr><p>本文2026-03-23首发于<a href='//localhost:1313/'></a>，最后修改于2026-03-23</p>]]>
+        <hr><p>本文2026-03-23首发于<a href='//localhost:49656/'></a>，最后修改于2026-03-23</p>]]>
       </description>
       
         <category>站务</category>
@@ -43,16 +43,16 @@
 
     <item>
       <title>日常用的 Git 命令小抄（够用版）</title>
-      <link>//localhost:1313/post/git%E6%97%A5%E5%B8%B8%E5%91%BD%E4%BB%A4%E5%B0%8F%E6%8A%84/</link>
+      <link>//localhost:49656/post/git%E6%97%A5%E5%B8%B8%E5%91%BD%E4%BB%A4%E5%B0%8F%E6%8A%84/</link>
       <pubDate>Wed, 18 Mar 2026 10:00:00 &#43;0800</pubDate>
       <author>xxx@example.com (Lindx)</author>
-      <guid>//localhost:1313/post/git%E6%97%A5%E5%B8%B8%E5%91%BD%E4%BB%A4%E5%B0%8F%E6%8A%84/</guid>
+      <guid>//localhost:49656/post/git%E6%97%A5%E5%B8%B8%E5%91%BD%E4%BB%A4%E5%B0%8F%E6%8A%84/</guid>
       <description>
         <![CDATA[<h1>日常用的 Git 命令小抄（够用版）</h1><p>作者：Lindx（xxx@example.com）</p>
         
           <p>我记性一般，子命令又多，所以把<strong>最常用</strong>的几条记下来，需要时直接搜这篇。假设你已经配置好用户名与邮箱（<code>user.name</code> / <code>user.email</code>），远程仓库名叫 <code>origin</code>。</p>
         
-        <hr><p>本文2026-03-18首发于<a href='//localhost:1313/'></a>，最后修改于2026-03-18</p>]]>
+        <hr><p>本文2026-03-18首发于<a href='//localhost:49656/'></a>，最后修改于2026-03-18</p>]]>
       </description>
       
         <category>技术</category>
@@ -63,16 +63,16 @@
 
     <item>
       <title>在 Windows 上搭开发环境：我的最低配置清单</title>
-      <link>//localhost:1313/post/windows%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E6%B8%85%E5%8D%95/</link>
+      <link>//localhost:49656/post/windows%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E6%B8%85%E5%8D%95/</link>
       <pubDate>Sun, 15 Mar 2026 14:30:00 &#43;0800</pubDate>
       <author>xxx@example.com (Lindx)</author>
-      <guid>//localhost:1313/post/windows%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E6%B8%85%E5%8D%95/</guid>
+      <guid>//localhost:49656/post/windows%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E6%B8%85%E5%8D%95/</guid>
       <description>
         <![CDATA[<h1>在 Windows 上搭开发环境：我的最低配置清单</h1><p>作者：Lindx（xxx@example.com）</p>
         
           <p>每次换电脑最烦的不是装系统，而是<strong>把顺手的东西一个个装回来</strong>。下面这份是我自己的「最低可行配置」，不追求全家桶，只求能愉快地敲代码。</p>
         
-        <hr><p>本文2026-03-15首发于<a href='//localhost:1313/'></a>，最后修改于2026-03-15</p>]]>
+        <hr><p>本文2026-03-15首发于<a href='//localhost:49656/'></a>，最后修改于2026-03-15</p>]]>
       </description>
       
         <category>技术</category>
@@ -83,16 +83,16 @@
 
     <item>
       <title>为什么我还在写「给自己看」的笔记</title>
-      <link>//localhost:1313/post/%E5%85%B3%E4%BA%8E%E5%86%99%E7%AC%94%E8%AE%B0%E7%9A%84%E6%80%9D%E8%80%83/</link>
+      <link>//localhost:49656/post/%E5%85%B3%E4%BA%8E%E5%86%99%E7%AC%94%E8%AE%B0%E7%9A%84%E6%80%9D%E8%80%83/</link>
       <pubDate>Tue, 10 Mar 2026 09:00:00 &#43;0800</pubDate>
       <author>xxx@example.com (Lindx)</author>
-      <guid>//localhost:1313/post/%E5%85%B3%E4%BA%8E%E5%86%99%E7%AC%94%E8%AE%B0%E7%9A%84%E6%80%9D%E8%80%83/</guid>
+      <guid>//localhost:49656/post/%E5%85%B3%E4%BA%8E%E5%86%99%E7%AC%94%E8%AE%B0%E7%9A%84%E6%80%9D%E8%80%83/</guid>
       <description>
         <![CDATA[<h1>为什么我还在写「给自己看」的笔记</h1><p>作者：Lindx（xxx@example.com）</p>
         
           <p>互联网上有一种声音：笔记软件换了一个又一个，收藏夹堆成山，真正内化的没几条。我挺认同的，所以一直在想：<strong>哪种记录方式对我最划算</strong>。</p>
         
-        <hr><p>本文2026-03-10首发于<a href='//localhost:1313/'></a>，最后修改于2026-03-10</p>]]>
+        <hr><p>本文2026-03-10首发于<a href='//localhost:49656/'></a>，最后修改于2026-03-10</p>]]>
       </description>
       
         <category>随笔</category>
@@ -103,16 +103,16 @@
 
     <item>
       <title>雨果静态站点发到哪里：几种常见做法</title>
-      <link>//localhost:1313/post/hugo%E9%9D%99%E6%80%81%E7%AB%99%E7%82%B9%E9%83%A8%E7%BD%B2%E6%96%B9%E5%BC%8F/</link>
+      <link>//localhost:49656/post/hugo%E9%9D%99%E6%80%81%E7%AB%99%E7%82%B9%E9%83%A8%E7%BD%B2%E6%96%B9%E5%BC%8F/</link>
       <pubDate>Thu, 05 Mar 2026 16:00:00 &#43;0800</pubDate>
       <author>xxx@example.com (Lindx)</author>
-      <guid>//localhost:1313/post/hugo%E9%9D%99%E6%80%81%E7%AB%99%E7%82%B9%E9%83%A8%E7%BD%B2%E6%96%B9%E5%BC%8F/</guid>
+      <guid>//localhost:49656/post/hugo%E9%9D%99%E6%80%81%E7%AB%99%E7%82%B9%E9%83%A8%E7%BD%B2%E6%96%B9%E5%BC%8F/</guid>
       <description>
         <![CDATA[<h1>雨果静态站点发到哪里：几种常见做法</h1><p>作者：Lindx（xxx@example.com）</p>
         
           <p>用雨果（Hugo）写好站点后，本地会看到 <strong><code>public/</code></strong> 目录——<strong>那就是整站静态文件</strong>。接下来只差把它放到一台能对外提供网页访问（超文本传输协议）的服务上。下面按「省心程度」大致排个序，方便你对号入座。</p>
         
-        <hr><p>本文2026-03-05首发于<a href='//localhost:1313/'></a>，最后修改于2026-03-05</p>]]>
+        <hr><p>本文2026-03-05首发于<a href='//localhost:49656/'></a>，最后修改于2026-03-05</p>]]>
       </description>
       
         <category>技术</category>
