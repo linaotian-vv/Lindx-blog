@@ -11,3 +11,10 @@ author = "Lindx" # 侧栏昵称与图片 alt，请改成你的名字
 avatar = "avatar.png"
 description = "博客正在建设中..."
 subtitle = "博客正在建设中..."
+
+# 侧边栏位置：left 或 right
+sidebar = "left"
+
+[markup.highlight]
+guessSyntax = true
+noClasses = false
